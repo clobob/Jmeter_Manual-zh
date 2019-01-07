@@ -5,3 +5,7 @@
 * BeanShell 专栏
 
   * [BeanShell](BeanShell/BeanShell.md)
+
+* JS 实验
+
+   * [JS延时按钮](BeanShell/Test.md)
